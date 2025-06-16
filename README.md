@@ -24,6 +24,30 @@ Our findings indicate decoder-only transformers hold promise for industrial time
 
 ---
 
+## 🧠 Why Silicon Prediction is Critical for Steel Industry
+
+### ⚙️ 1. Product Quality
+- Silicon content directly impacts the **mechanical properties** of steel.
+- Excess silicon can make steel **brittle** and interfere with refining or alloying steps.
+- Predicting and controlling silicon ensures **consistency and quality** in the final product.
+
+### 💰 2. Cost of Production
+- Over-siliconized hot metal requires **more corrective treatment** (e.g., added alloys, oxygen).
+- This leads to:
+  - Higher **material costs**
+  - Increased **energy usage**
+  - Risk of **scrapped batches**
+- Accurate forecasting reduces these unnecessary expenses.
+
+### 🏭 3. Process Efficiency
+- Silicon level is a **key signal of furnace health**.
+  - Rising silicon → signs of **channeling, burden slippage**, or **gas maldistribution**
+  - Falling silicon → potential **overblowing** or **thermal inefficiency**
+- Forecasting allows **preemptive action** to stabilize operations.
+
+> ✅ **In short: Forecasting silicon improves product quality, reduces costs, and enhances furnace control — a triple win for steel operations.**
+
+
 ## 🧠 Model Architecture & Method  
 
 ### Input/Output:
