@@ -1,6 +1,6 @@
 # DPOpreferencesGPT
 
-* LINK
+* CIVS
 
 # On the Use of Decoder-Only Transformers to Model Time-Series based Silicon Data  
 **Ricardo Calix, Tyamo Okosun, and Hong Wang**
